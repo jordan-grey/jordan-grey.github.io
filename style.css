@@ -1,0 +1,28 @@
+html, body {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    overflow-x: hidden;
+    background-image: url("images/game_background.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#site-background {
+    background-color: rgba(40, 9, 112, 0.5);
+    margin: 35px;
+    
+}
+
+#title-section {
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    height: 50px;
+    align-items: start;
+    color: white;
+    font-family: "Lucida Console", monospace;
+}
+
